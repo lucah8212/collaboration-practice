@@ -6,7 +6,7 @@
 #### 6
 #### adding text to line 7
 #### 8
-#### GitHub is really good.
+#### GitHub is really awesome.
 #### 10
 #### 11
 #### 12
